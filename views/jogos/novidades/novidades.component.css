@@ -1,0 +1,18 @@
+.img-novidades{
+    width: 600px; 
+
+}
+p{
+    text-align: justify;
+    margin-right: 50px;
+    color: white;
+}
+.texto{
+    width: 700px;
+    height: auto;
+    margin-left: 170px;
+}
+.titulo {
+    text-decoration: none;
+    color: black;
+}
